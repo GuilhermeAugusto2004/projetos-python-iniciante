@@ -1,0 +1,8 @@
+{
+    "itens": [
+        {"nome": "parafuso", "preco":5, "qtd": 10},
+        {"nome": "taboa", "preco": 10, "qtd": 3},
+        {"nome": "prego", "preco": 1,"qtd": 2},
+        {"nome": "trena", "preco": 7, "qtd": 1}
+    ]
+}
